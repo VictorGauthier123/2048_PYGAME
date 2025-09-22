@@ -1,0 +1,64 @@
+# 2048 Game in Python with Pygame
+
+This project is an implementation of the classic 2048 puzzle game using Python and Pygame.  
+It demonstrates grid-based game logic, keyboard event handling, and graphical rendering.
+
+---
+
+## Features
+
+- 4x4 grid with smooth tile rendering
+- Random spawning of 2 and 4 tiles
+- Tile merging mechanics (left, right, up, down)
+- Score tracking
+- Game over detection
+
+---
+
+## Project Structure
+
+```
+2048-pygame/
+├── game.py          # game logic (grid, moves, merging, score)
+├── gui.py           # graphical interface with Pygame
+├── main.py          # entry point
+├── requirements.txt # dependencies
+└── README.md        # documentation
+```
+
+---
+
+## Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/<your-user>/2048-pygame.git
+cd 2048-pygame
+pip install -r requirements.txt
+```
+
+Contents of `requirements.txt`:
+
+```
+pygame
+```
+
+---
+
+## Usage
+
+Run the game with:
+
+```bash
+python main.py
+```
+
+Controls:
+- Arrow keys (Up, Down, Left, Right) to move tiles.
+
+The game ends when no more moves are possible.
+
+
+
+
