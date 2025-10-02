@@ -3,6 +3,11 @@
 This project is an implementation of the classic 2048 puzzle game using Python and Pygame.  
 It demonstrates grid-based game logic, keyboard event handling, and graphical rendering.
 
+<img width="448" height="527" alt="image" src="https://github.com/user-attachments/assets/febed523-6288-447b-a445-34fd920ce6fc" />
+<img width="447" height="536" alt="image" src="https://github.com/user-attachments/assets/999b27e0-f4fb-43a8-8e65-6a865a7e10e5" />
+
+
+
 ---
 
 ## Features
