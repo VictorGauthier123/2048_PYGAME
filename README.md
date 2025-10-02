@@ -38,8 +38,8 @@ It demonstrates grid-based game logic, keyboard event handling, and graphical re
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-user>/2048-pygame.git
-cd 2048-pygame
+git clone https://github.com/VictorGauthier123/2048_PYGAME.git
+cd 2048_pygame
 pip install -r requirements.txt
 ```
 
